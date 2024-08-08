@@ -11,7 +11,7 @@ $VERSION = '0.1';
     description => 'This script allows ' .
                    'you to swicth theme ' .
                    'on a per channel basis.',
-    license     => 'GPLv2',
+    license     => 'GPLv3',
 );
 
 my $preprint = '%9Channel Theme%n> ';
